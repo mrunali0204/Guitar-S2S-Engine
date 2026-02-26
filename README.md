@@ -2,19 +2,8 @@
 Terminal-based Guitar String-to-Spectrum Simulation Engine written in C.
 
 
-Guitar-S2S-Engine/
-├── src/
-│   ├── main.c            ← interactive driver + animation loop
-│   ├── fretboard.c       ← string‑fret→note mapping (phase 1)
-│   ├── spectrum.c        ← ANSI colour utilities & gradient animation (phase 2/5)
-│   ├── note_engine.c     ← frequency calculator (phase 3)
-├── include/
-│   ├── fretboard.h
-│   ├── spectrum.h
-│   ├── note_engine.h
-├── README.md
-├── Makefile
-└── .gitignore
+Guitar-S2S-Engine
+
 
 🔧 Module summary
 1. Fretboard
