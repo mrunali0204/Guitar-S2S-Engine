@@ -2,9 +2,6 @@
 Terminal-based Guitar String-to-Spectrum Simulation Engine written in C.
 
 
-Guitar-S2S-Engine
-
-
 🔧 Module summary
 1. Fretboard
 static const char * const fretboard[6][13] (standard tuning, 0–12 frets).
