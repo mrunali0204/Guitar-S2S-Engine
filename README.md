@@ -2,7 +2,7 @@
 Terminal-based Guitar String-to-Spectrum Simulation Engine written in C.
 
 
-🔧 Module summary
+* Module summary
 1. Fretboard
 static const char * const fretboard[6][13] (standard tuning, 0–12 frets).
 const char *get_note(int string, int fret) – returns note or NULL for invalid input.
